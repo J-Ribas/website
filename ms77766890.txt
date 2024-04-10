@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ribas.webhop.me",
+  "Id": "deb6f34a-5f1b-403e-9e54-0176ebcd4c86"
+}
